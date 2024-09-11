@@ -1,3 +1,4 @@
+
 <h2 align="left">Hi 👋! My name is Jatin Gupta Aka Jedex and I'm a Computer Science Student</h2>
 
 ###
@@ -45,6 +46,9 @@
 ###
 
 <div align="left">
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=jatingupta9120&label=Profile%20Views&icon=0&pretty=true" />
+</a>
   <a href="https://www.linkedin.com/in/jatin-gupta9120/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
