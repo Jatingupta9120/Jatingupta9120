@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/@bharat__2044" target="_blank"><img src="https://img.shields.io/twitter/follow/jatingupta9905?logo=twitter&style=for-the-badge" alt="@jatingupta9905" /></a> </p>
 
-- 🌱 I’m currently learning **`Full Stack Development & Devops`**
+- 🌱 I’m currently learning **`Full Stack Development `**
 
 - 💬 Ask me about **`Data Structure, MERN, JAVA, Backend, Typescript, Javascript, Kafka`**
 
