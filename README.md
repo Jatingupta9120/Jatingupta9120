@@ -5,7 +5,7 @@
   Hi there, <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Jatin Gupta 👨
 </h1>
 
-<h2>A passionate Software developer</h2>
+<h2>A passionate Software developer</h2>  b
 </div> <br>
 
 <!-- <img align="right" alt="Coding" width="400" src="./assets/banner.gif" /> -->
