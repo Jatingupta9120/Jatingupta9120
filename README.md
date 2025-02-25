@@ -17,19 +17,19 @@
 
 - 🌱 I’m currently learning **`Full Stack Development `**
 
-- 💬 Ask me about **`Data Structure, MERN, JAVA, Backend, Typescript, Javascript, Kafka`**
+- 💬 Ask me about **`Data Structure,NestJs,Scalable Backend MERN, JAVA, Backend, Typescript, Javascript, Kafka,Docker,AWS`**
 
-- 🚀 Love to talk about **`Backend frameworks`**
+- 🚀 Love to talk about **`Backend frameworks like NestJs or ExpressJs`**
 
 - 📝 Checkout my [resume](https://drive.google.com/file/d/1H4VBz-kzfJNwgmmpGCkg9QtZ9jAzmaJC/view?usp=drive_link)
 
 - 💻 Most used line of code `git commit -m "Initial Commit"`
 
-- 💪 Passionate about **`Competitive Coding`** 
+- 💪 Passionate about **`Competitive Coding and Problem Solving`** 
 
 - 📫 How to reach me - **jatinguptaworks@gmail.com**
 <!--
-- ⚡ Fun fact - **`I am Lazy but Smart`**
+- ⚡ Fun fact - **`I may be late to start, but I always finish early and strong!`**
 -->
 
 
